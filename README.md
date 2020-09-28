@@ -2,9 +2,9 @@
 
 - The available time is 100 minutes
 - Don't worry if you can't finish everything. Try to do as much as possible.
-- You might not use any kind of help(internet, other people, etc..).
+- You may not use any kind of help (internet, other people, etc...).
 Try to imagine that you are taking this test offline on a paper.
-- You might not ask questions during the test
+- You may not ask questions during the test
 
 ## Tips and tricks
 
@@ -22,7 +22,7 @@ for example for java code:
 
 ### Programming tasks
 
-- **You must not use an IDE**
+- **You may not use an IDE**
 - You don't need to handle every edge case
 - It doesn't matter if the program is not correct syntactically,
 the structure is the important part. You might also write pseudo code.
@@ -40,4 +40,4 @@ Depends on the question but keep it around 2-3 sentences.
 - Clone the forked repository to your computer
 - All your answers and solutions should go in this repository
 
-Click [here](test.md) for the test!
+Click [here](test.md) for the test.
